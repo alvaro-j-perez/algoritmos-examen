@@ -1,0 +1,13 @@
+C:\Users\max jalapa\Desktop\examen_firebase\bin\Debug\netcoreapp3.1\examen_firebase.exe
+C:\Users\max jalapa\Desktop\examen_firebase\bin\Debug\netcoreapp3.1\examen_firebase.deps.json
+C:\Users\max jalapa\Desktop\examen_firebase\bin\Debug\netcoreapp3.1\examen_firebase.runtimeconfig.json
+C:\Users\max jalapa\Desktop\examen_firebase\bin\Debug\netcoreapp3.1\examen_firebase.runtimeconfig.dev.json
+C:\Users\max jalapa\Desktop\examen_firebase\bin\Debug\netcoreapp3.1\examen_firebase.dll
+C:\Users\max jalapa\Desktop\examen_firebase\bin\Debug\netcoreapp3.1\examen_firebase.pdb
+C:\Users\max jalapa\Desktop\examen_firebase\obj\Debug\netcoreapp3.1\examen_firebase.csprojAssemblyReference.cache
+C:\Users\max jalapa\Desktop\examen_firebase\obj\Debug\netcoreapp3.1\examen_firebase.AssemblyInfoInputs.cache
+C:\Users\max jalapa\Desktop\examen_firebase\obj\Debug\netcoreapp3.1\examen_firebase.AssemblyInfo.cs
+C:\Users\max jalapa\Desktop\examen_firebase\obj\Debug\netcoreapp3.1\examen_firebase.csproj.CoreCompileInputs.cache
+C:\Users\max jalapa\Desktop\examen_firebase\obj\Debug\netcoreapp3.1\examen_firebase.dll
+C:\Users\max jalapa\Desktop\examen_firebase\obj\Debug\netcoreapp3.1\examen_firebase.pdb
+C:\Users\max jalapa\Desktop\examen_firebase\obj\Debug\netcoreapp3.1\examen_firebase.genruntimeconfig.cache
